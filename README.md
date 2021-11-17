@@ -1,6 +1,6 @@
 ### 📫 How to reach me: [mahdiafzal.com](http://mahdiafzal.com)
 
-** Hi 👋 I’m Mahdi Afzal
+## Hi 👋 I’m Mahdi Afzal
 
 - 🔭 I’m React FrontEnd developer
 - 🌱 I’m currently learning JavaScript
