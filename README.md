@@ -2,10 +2,10 @@
 
 ** Hi 👋 I’m Mahdi Afzal
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mahdiafzal&show_icons=true&theme=react)
-
 - 🔭 I’m React FrontEnd developer
 - 🌱 I’m currently learning JavaScript
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mahdiafzal&show_icons=true&theme=react)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiafzal)
 
