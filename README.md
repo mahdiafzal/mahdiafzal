@@ -2,10 +2,8 @@
 
 ## Hi 👋 I’m Mahdi Afzal
 
-- 🔭 I’m React FrontEnd developer
-- 🌱 I’m currently learning JavaScript
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdiafzal&theme=react) ![Github stats](https://github-readme-stats.vercel.app/api?username=mahdiafzal&show_icons=true&theme=react) 
+- I'm a Software Analysis & Technical Product Manager
+- I’ll never be perfect, but I can be better.
 
 <!--
 - 👯 I’m looking to collaborate on ...
